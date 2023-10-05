@@ -1,6 +1,6 @@
-# Sentor_G's List of Tragic IronMON Deaths
+## Sentor_G's List of Tragic IronMON Deaths
 
-#### Here is a compiled list of the clips (in chronological order) showing each tragic IronMON death on my channel.
+Here is a compiled list of the clips (in chronological order) showing each tragic IronMON death on my channel.
 
 ## IronMON Deaths:
 | **Name** | **Game** | **Clip URL** | **Extra Details** |
@@ -31,3 +31,4 @@
 | **Buggle** | Platinum Kaizo | https://clips.twitch.tv/AnnoyingSpunkyDeerArsonNoSexy-0UGyapUOaT53MySJ | Dragon Dance Rock Slide critical hit on the exact same trainer ChadEditor died to only moments before. |
 | **Gato** | Platinum Kaizo | https://clips.twitch.tv/HyperAwkwardCheddarRickroll-sl4OIUrI8gNHb1TP | Unbeliveably thicc Skuntank didn't miss a single Magma Storm. |
 | **Bella** | HeartGold Tournament | https://clips.twitch.tv/RelatedEntertainingDragonfruitArgieB8--VSW8mAcAemi0Q0H | I knew the Gyarados had Bide, but I clicked Blizzard anyway. All Bella had to do was hit a second time. |
+| **Maurice** | Platinum Kaizo | https://clips.twitch.tv/ProtectiveRamshackleHedgehogGivePLZ-NEj1G99iLpoRkbUD | Hit itself three times in confusion, then Aftermath. |
