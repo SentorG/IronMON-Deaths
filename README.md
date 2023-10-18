@@ -2,7 +2,7 @@
 
 Here is a compiled list of the clips (in chronological order) showing each tragic IronMON death on my channel.
 
-## IronMON Deaths:
+## IronMON Hall of Shame:
 | **Name** | **Game** | **Clip URL** | **Extra Details** |
 |:-:|:-:|:-:|-|
 | **HideNSeek** | HeartGold Kaizo| https://clips.twitch.tv/SmallObservantMonkeyLitFam-oGpUBOTbE2LFBIXF | I had my randomiser settings wrong (I had no idea until this clip), which added +3 Pokémon to important trainers. This meant the Kimono Girls had 4 Pokémon each. |
@@ -14,9 +14,10 @@ Here is a compiled list of the clips (in chronological order) showing each tragi
 | **Snarf** | HeartGold Kaizo | https://clips.twitch.tv/OptimisticOpenPidgeonPastaThat-OENsNYY8a6wtmirZ | STAB Selfdestruct. Need I say anymore? |
 | **Billy** | Platinum Kaizo | https://clips.twitch.tv/HeadstrongAggressiveTaroCeilingCat-feoV9DSMaEW8AmqH | Billy had a lot of chances in this battle. |
 | **Kevin** | HeartGold Tournament | https://clips.twitch.tv/EphemeralFaintLyrebirdAMPTropPunch-l0Lq3KBrPBa4J5EY | No heals. |
-| **Billy II** | Platinum Kaizo | https://clips.twitch.tv/ZealousBadShingleSeemsGood-ndkVC0sFJvFBqKbJ | EQ from a Moltres. |
-| **Toby** | Platinum Kaizo | https://clips.twitch.tv/EnthusiasticLivelyThymeTriHard-Dv6Qk7roTd0Q5P-k | Turn 1 Perish Song. |
+| **Billy II** | Platinum Kaizo | https://clips.twitch.tv/ZealousBadShingleSeemsGood-ndkVC0sFJvFBqKbJ | EQ from a Moltres at Wake. |
+| **Toby** | Platinum Kaizo | https://clips.twitch.tv/EnthusiasticLivelyThymeTriHard-Dv6Qk7roTd0Q5P-k | Turn 1 Perish Song at Byron. |
 | **Iron Feet** | HeartGold Ultimate | https://clips.twitch.tv/DreamySaltyPicklesHoneyBadger-DachRS3fFQUAvYMD | Didn't set up enough into Metal Burst. |
+| **Archie** | Platinum Kaizo | https://www.twitch.tv/sentor_g/clip/SpookyBlushingZucchiniDeIlluminati-cHJtJliqPA93o46V | **SIX** hours were spent searching for Tail Glow/ Nasty Plot to Sketch. Absolutely walled as soon as I got to Route 216 by a Darkrai. |
 | **Helen** | HeartGold Ultimate | https://clips.twitch.tv/DoubtfulAuspiciousDragonflyCclamChamp-aSMwnoAcU3PEJ4mq | To be honest, Helen should not have got here. o7 |
 | **Ball** | HeartGold Kaizo | https://clips.twitch.tv/TriangularUninterestedGiraffeCharlieBitMe-j4DtQCLN71JKJbFI | Not even STAB Thunderbolt was enough for this Hitmonlee. |
 | **Mirasz** | Platinum Kaizo | https://clips.twitch.tv/HorribleVastBatteryPanicVis-CEPTNO09VFzvFC_0 | This seed randomly had 100% learnability on Gym TMs. I ran the seed back off stream and it was winnable... If only I didn't get Perish Songed. |
