@@ -34,3 +34,4 @@ Here is a compiled list of the clips (in chronological order) showing each tragi
 | **Gato** | Platinum Kaizo | https://clips.twitch.tv/HyperAwkwardCheddarRickroll-sl4OIUrI8gNHb1TP | Unbeliveably thicc Skuntank didn't miss a single Magma Storm. |
 | **Bella** | HeartGold Tournament | https://clips.twitch.tv/RelatedEntertainingDragonfruitArgieB8--VSW8mAcAemi0Q0H | I knew the Gyarados had Bide, but I clicked Blizzard anyway. All Bella had to do was hit a second time. |
 | **Maurice** | Platinum Kaizo | https://clips.twitch.tv/ProtectiveRamshackleHedgehogGivePLZ-NEj1G99iLpoRkbUD | Hit itself three times in confusion, then Aftermath. |
+| **Nelly** | Platinum Kaizo | https://clips.twitch.tv/GorgeousBlazingLardKlappa-QR4XUqD3xoj8BgZr | **SO MUCH POTENTIAL** just to be completely walled, also entering the battle paralysed. I was very sad about this one. |
