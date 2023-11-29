@@ -35,3 +35,4 @@ Here is a compiled list of the clips (in chronological order) showing each tragi
 | **Bella** | HeartGold Tournament | https://clips.twitch.tv/RelatedEntertainingDragonfruitArgieB8--VSW8mAcAemi0Q0H | I knew the Gyarados had Bide, but I clicked Blizzard anyway. All Bella had to do was hit a second time. |
 | **Maurice** | Platinum Kaizo | https://clips.twitch.tv/ProtectiveRamshackleHedgehogGivePLZ-NEj1G99iLpoRkbUD | Hit itself three times in confusion, then Aftermath. |
 | **Nelly** | Platinum Kaizo | https://clips.twitch.tv/GorgeousBlazingLardKlappa-QR4XUqD3xoj8BgZr | **SO MUCH POTENTIAL** just to be completely walled, also entering the battle paralysed. I was very sad about this one. |
+| **Wendy** | Emerald Nat.Dex Kaizo | https://clips.twitch.tv/YawningDullSalamanderSpicyBoy-y0whxW3lWNfpLuk9 | First cool Pokémon in Emerald. Maxie before Flannery letting us hear the Gen 3 song half way through the fight. His last Pokémon also had it. |
