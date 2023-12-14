@@ -36,3 +36,4 @@ Here is a compiled list of the clips (in chronological order) showing each tragi
 | **Maurice** | Platinum Kaizo | https://clips.twitch.tv/ProtectiveRamshackleHedgehogGivePLZ-NEj1G99iLpoRkbUD | Hit itself three times in confusion, then Aftermath. |
 | **Nelly** | Platinum Kaizo | https://clips.twitch.tv/GorgeousBlazingLardKlappa-QR4XUqD3xoj8BgZr | **SO MUCH POTENTIAL** just to be completely walled, also entering the battle paralysed. I was very sad about this one. |
 | **Wendy** | Emerald Nat.Dex Kaizo | https://clips.twitch.tv/YawningDullSalamanderSpicyBoy-y0whxW3lWNfpLuk9 | First cool Pokémon in Emerald. Maxie before Flannery letting us hear the Gen 3 song half way through the fight. His last Pokémon also had it. |
+| **Scruffella** | Platinum Kaizo | https://clips.twitch.tv/SnappySuaveHeronUnSane-0pL87HsVeayX4WPX | Another deep Arcanine run! No decent healing items, bad TMs, missing moves and chunky enemies will do it. :) |
