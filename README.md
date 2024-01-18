@@ -8,8 +8,8 @@ Here is a compiled list of the clips (in chronological order) showing each tragi
 | **HideNSeek** | HeartGold Kaizo| https://clips.twitch.tv/SmallObservantMonkeyLitFam-oGpUBOTbE2LFBIXF | I had my randomiser settings wrong (I had no idea until this clip), which added +3 Pokémon to important trainers. This meant the Kimono Girls had 4 Pokémon each. |
 | **Beeg Sean** | HeartGold Kaizo | https://clips.twitch.tv/OriginalSpikyGrassPermaSmug-LuNnh8kPDtvvpT7L | Maybe locking into Rollout was a bad idea... |
 | **Dave** | Platinum Kaizo | https://clips.twitch.tv/CalmUnsightlyTubersMcaT-e3EWvjqZ0aoie0jL | My first decent Tail Glow Pokémon. Died to weather tick damage after not using a heal. |
-| **Scruffy** | Platinum Kaizo | https://clips.twitch.tv/CharmingRespectfulDillKappaClaus-zJZHgWX3iwOpV53T | The legend of Scruffy ended here. Whole video available on my YouTube channel (https://bit.ly/3qJIzd5). |
 | **Claire** | Platinum Kaizo | https://clips.twitch.tv/VainScrumptiousMeerkatDeIlluminati-yEGvDou2ZRhAsEAM | When a tanky Pokémon gets sent out after a Perish Song user... |
+| **Scruffy** | Platinum Kaizo | https://clips.twitch.tv/CharmingRespectfulDillKappaClaus-zJZHgWX3iwOpV53T | The legend of Scruffy ended here. Whole video available on my YouTube channel (https://bit.ly/3qJIzd5). |
 | **Geoffrey** | Platinum Kaizo | https://clips.twitch.tv/ModernCoyMangoBCouch-4vj7VSghxCRrgicl | STAB Overheat into a steel type. |
 | **Beau** | Platinum Kaizo | https://clips.twitch.tv/ZealousAgreeableBarracudaTTours-tagsuzGB2reYPZil | Another tanky Pokémon sent out after Perish Song. This Kingdra stood no chance. |
 | **Snarf** | HeartGold Kaizo | https://clips.twitch.tv/OptimisticOpenPidgeonPastaThat-OENsNYY8a6wtmirZ | STAB Selfdestruct. Need I say anymore? |
